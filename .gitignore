@@ -1,6 +1,5 @@
 tmp/*
 /tmp/*
 /tmp/todo.txt
-.txt
-
+*.txt
 .env
